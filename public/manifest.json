@@ -1,0 +1,24 @@
+{
+  "short_name": "Verbes",
+  "name": "Quiz Verbes Irréguliers",
+  "description": "Révise les verbes irréguliers anglais",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#667eea",
+  "orientation": "portrait"
+}
